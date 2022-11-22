@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Patrick Hand', cursive;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+    url(https://img.freepik.com/free-vector/white-background-with-low-poly-digital-lines-connection_1017-25549.jpg?w=2000) no-repeat;
+    background-size: cover;
+}
+
+p {
+    color: black;
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+
+#container p {
+    text-indent: 30px;
+    color: green;
+}
